@@ -1,0 +1,26 @@
+[
+  {
+    "weight": 700,
+    "name": "Freesentation-7_bold.woff2",
+    "source": "https://static.wixstatic.com/ufonts/d6f58b_e87f86d9ea8348c884dcc72ba2cd4f48/woff2/file.woff2",
+    "bytes": 258924
+  },
+  {
+    "weight": 800,
+    "name": "Freesentation-8_extrabold.woff2",
+    "source": "https://static.wixstatic.com/ufonts/d6f58b_f7bc27b19e72449f9b91233ba4585445/woff2/file.woff2",
+    "bytes": 261084
+  },
+  {
+    "weight": 900,
+    "name": "Freesentation-9_black.woff2",
+    "source": "https://static.wixstatic.com/ufonts/d6f58b_c7dab0bb781d46038b97737d627e93c9/woff2/file.woff2",
+    "bytes": 264820
+  },
+  {
+    "weight": 600,
+    "name": "Freesentation-6_semibold.woff2",
+    "source": "https://static.wixstatic.com/ufonts/d6f58b_a0865a9555fb43ef839d92118ef74567/woff2/file.woff2",
+    "bytes": 256972
+  }
+]

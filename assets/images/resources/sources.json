@@ -1,0 +1,128 @@
+[
+  {
+    "id": "rtx-6000-ada",
+    "local": "assets/images/resources/rtx-6000-ada.jpg",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/rtx-6000/rtx6000-kv-bb580_440-p@2x.jpg",
+    "source_page": "https://www.nvidia.com/en-us/products/workstations/rtx-6000/",
+    "credit": "Image: NVIDIA",
+    "retrieved": "2026-09-29",
+    "notes": "User supplied A6000 Ada; interpreted as RTX 6000 Ada Generation. RTX A6000 is a distinct product; clarification was requested."
+  },
+  {
+    "id": "h200",
+    "local": "assets/images/resources/h200.jpg",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/h200/h200-kv-bb580_440-p@2x.jpg",
+    "source_page": "https://www.nvidia.com/en-us/data-center/h200/",
+    "credit": "Image: NVIDIA",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "rtx-5090",
+    "local": "assets/images/resources/rtx-5090.jpg",
+    "source_url": "https://www.nvidia.com/content/nvidiaGDC/us/en_US/geforce/graphics-cards/50-series/rtx-5090/_jcr_content/root/responsivegrid/nv_container_975461298/nv_carousel_home/item_1733731197698.coreimg.jpeg/1788439976770/geforce-rtx-5090-gallery-shot-1-ari.jpeg",
+    "source_page": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "credit": "Image: NVIDIA",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "rtx-pro-6000",
+    "local": "assets/images/resources/rtx-pro-6000.jpg",
+    "source_url": "https://www.nvidia.com/content/nvidiaGDC/us/en_US/products/workstations/professional-desktop-gpus/rtx-pro-6000-family/_jcr_content/root/responsivegrid/nv_container_1907901/nv_container/nv_teaser_copy.coreimg.jpeg/1753249509262/nvidia-workstation-rtx-pro-6000-ari.jpeg",
+    "source_page": "https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-6000-family/",
+    "credit": "Image: NVIDIA",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "b200",
+    "local": "assets/images/resources/b200.jpg",
+    "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/dgx-b200/dgx-b200-hero-bm-v2-l440-p@2x.jpg",
+    "source_page": "https://www.nvidia.com/en-us/data-center/dgx-b200/",
+    "credit": "DGX reference: NVIDIA",
+    "retrieved": "2026-09-29",
+    "notes": "Reference image of a DGX B200 system; the lab has specified B200 GPUs, not a server manufacturer or DGX chassis."
+  },
+  {
+    "id": "rh56dftp",
+    "local": "assets/images/resources/rh56dftp.webp",
+    "source_url": "https://sourcebotics.com/product-images/263b3b24461c4d22-card.webp",
+    "source_page": "https://sourcebotics.com/components/dexterous-hands/inspire-rh56-ftp/",
+    "credit": "Image: Sourcebotics",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "rh5dg2",
+    "local": "assets/images/resources/rh5dg2.jpg",
+    "source_url": "https://en.inspire-robots.com/wp-content/uploads/2026/09/Products_G2-600x600.jpg",
+    "source_page": "https://en.inspire-robots.com/product/rh5dg2/",
+    "credit": "Image: Inspire Robots",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "dg-5f-s",
+    "local": "assets/images/resources/dg-5f-s.webp",
+    "source_url": "https://cdn.tesollo.com/site/products/2026/08/146d4c2b-d994-494a-ad50-d38c48ffed34.webp",
+    "source_page": "https://www.tesollo.com/products/grippers/dg-5f-s",
+    "credit": "Image: Tesollo",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "kistar",
+    "local": "assets/images/resources/kistar.jpg",
+    "source_url": "https://jaylee00.github.io/assets/img/kistar_hand.jpg",
+    "source_page": "https://jaylee00.github.io/projects.html#kistar-urdf",
+    "credit": "Render: Jaesung Lee / KIST",
+    "retrieved": "2026-09-29",
+    "notes": "Research model render, not a photograph of the lab’s physical hand."
+  },
+  {
+    "id": "wuji-hand-2",
+    "local": "assets/images/resources/wuji-hand-2.webp",
+    "source_url": "https://www.wuji.tech/assets/images/hand2/p6-front.webp",
+    "source_page": "https://www.wuji.tech/en/hand2",
+    "credit": "Image: Wuji Technology",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "fr3",
+    "local": "assets/images/resources/fr3.png",
+    "source_url": "https://store.clearpathrobotics.com/cdn/shop/products/franka_research_3_arm_1200x1200.png?v=1663339398",
+    "source_page": "https://store.clearpathrobotics.com/products/franka-research-3",
+    "credit": "Image: Franka / Clearpath",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "piper",
+    "local": "assets/images/resources/piper.jpg",
+    "source_url": "https://global.agilex.ai/cdn/shop/files/PiPER-_3_169e24de-dc88-4c2d-b138-5b6cfba034d5.jpg?v=1776410151&width=1000",
+    "source_page": "https://global.agilex.ai/products/piper",
+    "credit": "Image: AgileX Robotics",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "g1",
+    "local": "assets/images/resources/g1.jpg",
+    "source_url": "https://shop.unitree.com/cdn/shop/files/2_3769ceea-b323-4ebc-a1f4-e27a9624706b_800x.jpg?v=1717575246",
+    "source_page": "https://shop.unitree.com/products/unitree-g1",
+    "credit": "Image: Unitree Robotics",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  },
+  {
+    "id": "kapex",
+    "local": "assets/images/resources/kapex.jpg",
+    "source_url": "https://media.nature.com/lw767/magazine-assets/d42473-025-00445-8/d42473-025-00445-8_51917170.jpg",
+    "source_page": "https://www.nature.com/articles/d42473-025-00445-8",
+    "credit": "Image: KIST / Nature",
+    "retrieved": "2026-09-29",
+    "notes": "Downloaded source image; displayed with CSS sizing."
+  }
+]

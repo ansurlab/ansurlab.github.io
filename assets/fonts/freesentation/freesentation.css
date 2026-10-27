@@ -1,0 +1,29 @@
+/* Original ANSUR Lab webfonts, archived without modification from its Wix site. */
+@font-face {
+  font-family: 'Freesentation';
+  src: url('Freesentation-6_semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Freesentation';
+  src: url('Freesentation-7_bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Freesentation';
+  src: url('Freesentation-8_extrabold.woff2') format('woff2');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Freesentation';
+  src: url('Freesentation-9_black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
